@@ -1,4 +1,4 @@
 import app from './app';
 
-//Servidor
+//Servidor de aplicação
 app.listen(3333);
